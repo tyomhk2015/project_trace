@@ -1,2 +1,3 @@
-# wp_trace
+# Project Trace
+
 Personal commentary about projects currently working on.
